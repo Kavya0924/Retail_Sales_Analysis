@@ -170,6 +170,9 @@ The dataset contains **1000+ synthetic sales records** with the following fields
 *Aspiring Data Analyst | Python & SQL Enthusiast*  
 📧 vattikutikavya19@gmail.com  
 🌐 GitHub Profile:https://github.com/Kavya0924
+linkedin profile:https://www.linkedin.com/in/vattikuti-kavya-a4b09226a/
+Live demo:https://drive.google.com/file/d/1zch6nfej9pKf_rYDx6U205WVyEJGAX18/view?usp=drive_link
 
 ---
+
 
